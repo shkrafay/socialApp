@@ -5,6 +5,12 @@ ruby "3.0.0"
 
 gem 'pg', '~> 1.3', '>= 1.3.5'
 
+gem 'activeadmin'
+
+gem 'devise', '~> 4.8', '>= 4.8.1'
+
+gem 'sass-rails'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3"
 
